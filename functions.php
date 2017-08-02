@@ -116,12 +116,12 @@ add_action( 'widgets_init', 'access_staffing_jax_widgets_init' );
 /**
  * Add Google Fonts
  */
-function wpb_add_google_fonts() {
+function access_staffing_jax_google_fonts() {
 
-    wp_enqueue_style( 'wpb-google-fonts', 'https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i', false );
+    wp_enqueue_style( 'access-staffing-jax-google-fonts', 'https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i', false );
 }
 
-add_action( 'wp_enqueue_scripts', 'wpb_add_google_fonts' );
+add_action( 'wp_enqueue_scripts', 'access_staffing_jax_google_fonts' );
 
 
 /**
