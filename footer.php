@@ -86,5 +86,8 @@
 
 <?php wp_footer(); ?>
 
+<div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbri-down mbr-iconfont"></i></a></div>
+<input name="animation" type="hidden">
+
 </body>
 </html>
