@@ -21,12 +21,9 @@
 </head>
 
 <body <?php body_class(); ?>>
-<div id="page" class="site">
-	<a class="skip-link screen-reader-text" href="#content"><?php esc_html_e( 'Skip to content', 'access-staffing-jax' ); ?></a>
+
 
     <section class="menu cid-qqXDskXiZc" once="menu" id="menu1-0" data-rv-view="1281">
-
-
 
         <nav class="navbar navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm bg-color transparent">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +38,7 @@
                 <div class="navbar-brand">
                 <span class="navbar-logo">
                     <a href="index.html">
-                         <img src="assets/images/accessstaffinglogo-white-2064x2002.png" alt="Access Staffing International Jacksonville" title="Access Staffing Logo" media-simple="true" style="height: 6.7rem;">
+                         <img src="http://accessstaffingjax.com/assets/images/accessstaffinglogo-white-2064x2002.png" alt="Access Staffing International Jacksonville" title="Access Staffing Logo" media-simple="true" style="height: 6.7rem;">
                     </a>
                 </span>
 
