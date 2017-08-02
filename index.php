@@ -17,30 +17,6 @@ get_header(); ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main">
 
-            <section class="engine"><a href="#">bootstrap button</a></section><section class="cid-qqXEjGRE0S mbr-fullscreen mbr-parallax-background" id="header2-2" data-rv-view="1283">
-
-
-
-                <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(35, 35, 35);"></div>
-
-                <div class="container align-center">
-                    <div class="media-container-column mbr-white col-md-10 offset-md-1">
-                        <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">Access International</h1>
-
-                        <p class="mbr-text pb-3 mbr-fonts-style display-2">
-                            Your temporary staffing solution provider</p>
-                        <div class="mbr-section-btn">
-                            <a class="btn btn-md btn-secondary display-4" href="employer.html">EMPLOYERS</a>
-                            <a class="btn btn-md btn-white-outline display-4" href="jobs.html">JOB SEEKERS</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="mbr-arrow hidden-sm-down" aria-hidden="true">
-                    <a href="#next">
-                        <i class="mbri-down mbr-iconfont"></i>
-                    </a>
-                </div>
-            </section>
 
             <section class="engine"><a href="#">bootstrap button</a></section><section class="cid-qqXEjGRE0S mbr-fullscreen mbr-parallax-background" id="header2-2" data-rv-view="1283">
 
@@ -95,7 +71,7 @@ get_header(); ?>
                         <div class="card p-3 col-12 col-md-6 col-lg-3">
                             <div class="card-wrapper">
                                 <div class="card-img">
-                                    <img src="assets/images/medical-1080x720.jpg" alt="" title="" media-simple="true">
+                                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/medical-1080x720.jpg" alt="" title="" media-simple="true">
                                 </div>
                                 <div class="card-box">
                                     <h4 class="card-title pb-3 mbr-fonts-style display-5">
@@ -108,7 +84,7 @@ get_header(); ?>
                         <div class="card p-3 col-12 col-md-6 col-lg-3">
                             <div class="card-wrapper">
                                 <div class="card-img">
-                                    <img src="assets/images/hospitality-1080x720.jpg" alt="" title="" media-simple="true">
+                                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/hospitality-1080x720.jpg" alt="" title="" media-simple="true">
                                 </div>
                                 <div class="card-box ">
                                     <h4 class="card-title pb-3 mbr-fonts-style display-5">
@@ -121,7 +97,7 @@ get_header(); ?>
                         <div class="card p-3 col-12 col-md-6 col-lg-3">
                             <div class="card-wrapper">
                                 <div class="card-img">
-                                    <img src="assets/images/customer-sercoe-1080x720.jpg" alt="" title="" media-simple="true">
+                                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/customer-sercoe-1080x720.jpg" alt="" title="" media-simple="true">
                                 </div>
                                 <div class="card-box">
                                     <h4 class="card-title pb-3 mbr-fonts-style display-5">
@@ -134,7 +110,7 @@ get_header(); ?>
                         <div class="card p-3 col-12 col-md-6 col-lg-3">
                             <div class="card-wrapper">
                                 <div class="card-img">
-                                    <img src="assets/images/office-industry-1080x720.jpg" alt="" title="" media-simple="true">
+                                    <img src="<?php bloginfo('stylesheet_directory'); ?>/assets/images/office-industry-1080x720.jpg" alt="" title="" media-simple="true">
                                 </div>
                                 <div class="card-box">
                                     <h4 class="card-title pb-3 mbr-fonts-style display-5">
